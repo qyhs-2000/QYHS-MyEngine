@@ -1,0 +1,3 @@
+<material shader="shader/unlit">
+    <texture name="u_diffuse_texture" image="Images/diffuse_fishsoup_pot.qyhs"/>
+</material>

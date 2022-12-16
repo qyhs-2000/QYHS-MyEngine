@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\MyEngine\MyEngine\MyEngine\src\main.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\MyEngine\MyEngine\MyEngine\src\VertexData.h(85,50): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned short
+          ]
+D:\MyEngine\MyEngine\MyEngine\src\renderer\MeshRenderer.h(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+D:\MyEngine\MyEngine\MyEngine\src\main.cpp(118,12): warning C4101: 'model': unreferenced local variable
+D:\MyEngine\MyEngine\MyEngine\src\main.cpp(118,37): warning C4101: 'mvp': unreferenced local variable
+  MyEngine.vcxproj -> D:\MyEngine\MyEngine\x64\Debug\MyEngine.exe
